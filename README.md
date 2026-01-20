@@ -110,18 +110,19 @@ Reference: https://www.youtube.com/watch?v=GpqJzWCcQXY
 ## clone the project from github
 
 open **anaconda prompt** or **git bash**, then run:
-option#1: 
+
+#option#1: 
 ```bash
 cd desktop
 git clone https://github.com/your_username/your_repo_name.git
 cd your_repo_name
 ```
-Option#2: 
-go to https://github.com/DonotDonut/Retail_and_Warehouse_Sales
-code clone the https 
-open vscode 
-select new windong > clone git repository 
-paste the url and designate it's location 
+#Option#2: 
+1. go to https://github.com/DonotDonut/Retail_and_Warehouse_Sales
+2. code clone the https 
+3. open vscode 
+4. select new windong > clone git repository 
+5. paste the url and designate it's location 
 ---
 
 
